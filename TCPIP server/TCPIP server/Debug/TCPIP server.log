@@ -1,0 +1,5 @@
+﻿  ServerThread.cpp
+C:\Users\smile\Desktop\TCPIP server\TCPIP server\ServerThread.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\smile\Desktop\TCPIP server\TCPIP server\ServerThread.cpp(120): warning C4715: 'ServerThread::getUserNameBySocket': not all control paths return a value
+C:\Users\smile\Desktop\TCPIP server\TCPIP server\ServerThread.cpp(103): warning C4715: 'ServerThread::getIntention': not all control paths return a value
+  TCPIP server.vcxproj -> C:\Users\smile\Desktop\TCPIP server\Debug\TCPIP server.exe
